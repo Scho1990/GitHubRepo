@@ -1,0 +1,131 @@
+2019-04-05 18:33:45 INFO  TestBase:41 - ----Browser Opening----
+2019-04-05 18:33:45 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-05 18:33:50 INFO  TestBase:61 - Navigating to URL---- https://www.zoopla.co.uk/
+2019-04-05 19:03:01 INFO  TestBase:41 - ----Browser Opening----
+2019-04-05 19:03:01 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-05 19:03:07 INFO  TestBase:61 - Navigating to URL---- https://www.zoopla.co.uk/
+2019-04-05 19:59:13 INFO  TestBase:41 - ----Browser Opening----
+2019-04-05 19:59:13 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-05 19:59:18 INFO  TestBase:61 - Navigating to URL---- https://www.zoopla.co.uk/
+2019-04-05 20:38:02 INFO  TestBase:41 - ----Browser Opening----
+2019-04-05 20:38:02 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-05 20:38:06 INFO  TestBase:61 - Navigating to URL---- https://www.zoopla.co.uk/
+2019-04-05 20:40:05 INFO  TestBase:41 - ----Browser Opening----
+2019-04-05 20:40:05 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-05 20:40:10 INFO  TestBase:61 - Navigating to URL---- https://www.zoopla.co.uk/
+2019-04-08 13:11:23 INFO  TestBase:41 - ----Browser Opening----
+2019-04-08 13:11:23 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-08 13:11:32 INFO  TestBase:61 - Navigating to URL---- https://www.zoopla.co.uk/
+2019-04-08 14:28:47 INFO  TestBase:41 - ----Browser Opening----
+2019-04-08 14:28:47 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-08 14:28:52 INFO  TestBase:61 - Navigating to URL---- https://www.zoopla.co.uk/
+2019-04-22 15:07:40 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 15:07:40 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 15:09:07 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 15:12:31 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 15:12:31 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 15:13:40 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 15:15:05 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 15:15:05 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 15:16:15 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 15:20:26 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 15:20:26 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 15:21:49 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 15:36:57 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 15:36:57 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 15:37:31 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 17:42:58 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 17:42:58 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 17:44:21 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 18:22:13 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 18:22:13 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 18:23:36 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 18:49:52 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 18:49:52 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 18:51:00 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 18:52:02 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 18:52:02 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 18:53:06 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-22 18:56:52 INFO  TestBase:41 - ----Browser Opening----
+2019-04-22 18:56:52 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-22 18:58:15 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-23 11:56:33 INFO  TestBase:41 - ----Browser Opening----
+2019-04-23 11:56:33 INFO  TestBase:51 - Browser Selected for Execution---- firefox
+2019-04-23 11:57:57 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-23 15:56:52 INFO  TestBase:41 - ----Browser Opening----
+2019-04-23 15:56:52 INFO  TestBase:51 - Browser Selected for Execution---- firefox
+2019-04-23 15:57:01 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-23 18:11:11 INFO  TestBase:41 - ----Browser Opening----
+2019-04-23 18:11:11 INFO  TestBase:51 - Browser Selected for Execution---- firefox
+2019-04-23 18:12:22 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-23 19:11:50 INFO  TestBase:41 - ----Browser Opening----
+2019-04-23 19:11:50 INFO  TestBase:51 - Browser Selected for Execution---- firefox
+2019-04-23 19:13:10 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 16:28:10 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 16:28:11 INFO  TestBase:51 - Browser Selected for Execution---- firefox
+2019-04-24 16:28:32 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 16:28:32 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 16:29:14 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 16:32:41 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 16:32:41 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 16:33:31 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 16:35:50 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 16:35:50 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 16:37:03 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 16:42:52 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 16:42:52 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 16:43:36 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 16:46:22 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 16:46:22 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 16:47:25 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 16:47:56 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 16:47:56 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 16:48:59 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 18:25:24 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 18:25:24 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 18:26:03 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 18:56:25 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 18:56:25 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 18:57:08 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 19:10:20 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 19:10:20 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 19:11:43 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 19:38:25 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 19:38:25 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 19:39:41 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 19:41:14 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 19:41:14 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 19:42:23 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 19:46:15 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 19:46:15 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 19:47:38 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 19:48:30 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 19:48:30 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 19:49:34 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 19:50:47 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 19:50:47 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 19:52:10 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 19:57:37 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 19:57:37 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 19:58:45 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 19:59:56 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 19:59:56 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 20:01:00 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 20:02:57 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 20:02:57 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 20:04:21 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 20:15:51 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 20:15:51 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 20:16:59 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-24 20:20:53 INFO  TestBase:41 - ----Browser Opening----
+2019-04-24 20:20:53 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-24 20:22:17 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-26 12:58:09 INFO  TestBase:41 - ----Browser Opening----
+2019-04-26 12:58:09 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-26 12:58:25 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-26 12:59:37 INFO  TestBase:41 - ----Browser Opening----
+2019-04-26 12:59:37 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-26 12:59:49 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
+2019-04-26 13:00:45 INFO  TestBase:41 - ----Browser Opening----
+2019-04-26 13:00:45 INFO  TestBase:44 - Browser Selected for Execution---- chrome
+2019-04-26 13:02:09 INFO  TestBase:61 - Navigating to URL---- https://www.makemytrip.com/
