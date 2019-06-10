@@ -11,7 +11,7 @@ public class ConstructorClass {
 	public static void main(String arg[]) {
 		
 		ConstructorClass c =new ConstructorClass();
-	int d=	c.ConstructorClass(1,2);
-		System.out.println(d);
+	int d1=	c.ConstructorClass(1,2);
+		System.out.println(d1);
 	}
 }
